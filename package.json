@@ -1,0 +1,19 @@
+{
+  "name": "testback",
+  "version": "1.0.0",
+  "description": "A testing backend for future learning.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "try"
+  ],
+  "author": "Chandan Mahato",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
